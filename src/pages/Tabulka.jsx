@@ -9,7 +9,6 @@ const Tabulka = () => {
       <h4>Tabulka</h4>
       <TeamList />
       <div className="mt-4">
-        <h4>Statistics</h4>
       </div>
     </div>
   );
