@@ -1,0 +1,229 @@
+{
+  "teams": [
+    {
+      "team_id": 1,
+      "teamname": "HC Oceláři Třinec",
+      "position": 1,
+      "stadion":"WERK Aréna (Třinec)",
+      "matches": [
+      
+        {
+          "opponent": "HC Sparta Praha",
+          "outcome": "Win",
+          "score": "4-2",
+          "date": "2024-05-10",
+          "venue": "Oceláři Aréna",
+          "attendance": 5500,
+          "highlights": [
+            "Player of the Match: John Smith (HC Oceláři Třinec)",
+            "Key Play: Goal by Tomas Novak in the third period"
+          ]
+        },
+        {
+          "opponent": "Mountfield HK",
+          "outcome": "Loss",
+          "score": "1-3",
+          "date": "2024-05-12",
+          "venue": "ČPP Aréna",
+          "attendance": 4800,
+          "highlights": [
+            "Goal: Martin Kovář (HC Oceláři Třinec)",
+            "Tough defensive battle with Mountfield HK"
+          ]
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "teamname": "HC Sparta Praha",
+      "position": 2,
+      "stadion":"O2 Arena (Praha)",
+      "matches": [
+        {
+          "opponent": "HC Oceláři Třinec",
+          "outcome": "Loss",
+          "score": "2-4",
+          "date": "2024-05-10",
+          "venue": "Oceláři Aréna",
+          "attendance": 5500,
+          "highlights": [
+            "Strong performance by HC Sparta Praha's goaltender",
+            "Late rally fell short against HC Oceláři Třinec"
+          ]
+        },
+        {
+          "opponent": "HC Kometa Brno",
+          "outcome": "Win",
+          "score": "3-1",
+          "date": "2024-05-13",
+          "venue": "Tipsport Arena",
+          "attendance": 6200,
+          "highlights": [
+            "Powerplay goal by Tomas Zohorna (HC Sparta Praha)",
+            "Solid defensive effort"
+          ]
+        }
+      ]
+    },
+    {
+      "team_id": 3,
+      "teamname": "HC Verva Litvínov",
+      "position": 3,
+      "stadion": "Zimní stadion Ivana Hlinky (Litvinov)",
+      "matches": [
+        {
+          "opponent": "Mountfield HK",
+          "outcome": "Win",
+          "score": "5-2",
+          "date": "2024-05-11",
+          "venue": "Ivan Hlinka Stadion",
+          "attendance": 4200,
+          "highlights": [
+            "Hat-trick by Martin Štěpánek (HC Verva Litvínov)",
+            "Strong offensive performance"
+          ]
+        },
+        {
+          "opponent": "HC Oceláři Třinec",
+          "outcome": "Draw",
+          "score": "2-2",
+          "date": "2024-05-15",
+          "venue": "Zimní Stadion Ivana Hlinky",
+          "attendance": 4000,
+          "highlights": [
+            "Back-and-forth game with HC Oceláři Třinec",
+            "Key saves by Litvínov's goaltender"
+          ]
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "teamname": "HC Motor České Budějovice",
+      "position": 4,
+      "stadion": "Budvar Aréna (České Budějovice)",
+      "matches": [
+        {
+          "opponent": "HC Energie Karlovy Vary",
+          "outcome": "Loss",
+          "score": "1-4",
+          "date": "2024-05-09",
+          "venue": "Budvar Aréna",
+          "attendance": 3500,
+          "highlights": [
+            "Goal by Petr Novák (Motor České Budějovice)",
+            "Tough defensive battle"
+          ]
+        },
+        {
+          "opponent": "HC Dynamo Pardubice",
+          "outcome": "Win",
+          "score": "3-2",
+          "date": "2024-05-12",
+          "venue": "Budvar Aréna",
+          "attendance": 3200,
+          "highlights": [
+            "Late game-winning goal by Martin Procházka",
+            "Solid penalty kill by Motor České Budějovice"
+          ]
+        }
+      ]
+    },
+    {
+      "team_id": 5,
+      "teamname": "HC Kometa Brno",
+      "position": 5,
+      "stadion": "Winning Group Aréna (Brno)",
+      "matches": [
+        {
+          "opponent": "HC Mountfield",
+          "outcome": "Win",
+          "score": "3-1",
+          "date": "2024-05-10",
+          "venue": "DRFG Arena",
+          "attendance": 6000,
+          "highlights": [
+            "Two goals by Jan Hruška (HC Kometa Brno)",
+            "Strong defensive play in the third period"
+          ]
+        },
+        {
+          "opponent": "HC Sparta Praha",
+          "outcome": "Loss",
+          "score": "1-2",
+          "date": "2024-05-14",
+          "venue": "Vodapad Arena",
+          "attendance": 5500,
+          "highlights": [
+            "Goal by Martin Pláněk (HC Kometa Brno)",
+            "Tough battle against Sparta Praha"
+          ]
+        }
+      ]
+    },
+    {
+      "team_id": 6,
+      "teamname": "HC Energie Karlovy Vary",
+      "position": 6,
+      "stadion": "KV Aréna (Karlovy Vary)",
+      "matches": [
+        {
+          "opponent": "Motor České Budějovice",
+          "outcome": "Win",
+          "score": "4-1",
+          "date": "2024-05-09",
+          "venue": "Slavia Aréna",
+          "attendance": 3800,
+          "highlights": [
+            "Strong offensive performance",
+            "Goal by Petr Novák (HC Energie Karlovy Vary)"
+          ]
+        },
+        {
+          "opponent": "HC Verva Litvínov",
+          "outcome": "Loss",
+          "score": "2-3",
+          "date": "2024-05-13",
+          "venue": "Igor Chibrikov Aréna",
+          "attendance": 4200,
+          "highlights": [
+            "Late rally fell short",
+            "Exciting match against Litvínov"
+          ]
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "teamname": "HC Dynamo Pardubice",
+      "position": 7,
+      "stadion": "Enteria Aréna (Pardubice)",
+      "matches": [
+        {
+          "opponent": "Bílí Tygři Liberec",
+          "outcome": "Win",
+          "score": "5-2",
+          "date": "2024-05-10",
+          "venue": "Pardubická Sportovní Aréna",
+          "attendance": 4800,
+          "highlights": [
+            "Strong offensive performance by Pardubice",
+            "Hat-trick by Tomáš Svoboda (HC Dynamo Pardubice)"
+          ]
+        },
+        {
+          "opponent": "Motor České Budějovice",
+          "outcome": "Loss",
+          "score": "2-3",
+          "date": "2024-05-12",
+          "venue": "Budvar Aréna",
+          "attendance": 3200,
+          "highlights": [
+            "Exciting match with Motor České Budějovice",
+            "Late goal by Martin Procházka (HC Dynamo Pardubice)"
+          ]
+        }
+      ]
+    }
+  ]
+}

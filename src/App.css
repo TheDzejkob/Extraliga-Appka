@@ -29,3 +29,24 @@
 .small {
   font-size: 0.75rem;
 }
+.container-fluid{
+  padding-bottom: 2vh;
+}
+.a{
+  margin-right:1vw ;
+}
+.light-mode {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.btn-secondary {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
